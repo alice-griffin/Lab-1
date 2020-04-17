@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: #f9fafc;
+    padding: 25px;
+}
+
+a {
+    text-decoration: none;
+    color:  #69696a;
+
+}
+
+.navbar {
+    list-style: none; 
+    line-height: 30px; 
+    margin-bottom: 30px;
+    
+}
+
+button {
+    display: block; 
+    border-radius: 15px;
+    width: 100%; 
+    border-style: none;
+    background-color:#000;
+    color: #fff;
+    height: 32px; 
+}
+
+.hire {
+    margin-top: 10px; 
+}
+
+.header {
+    margin-bottom: 25px;
+}
+
+.border-left {
+    color: #69696a;  
+    font-size: 14px;
+}
+
+.border-left {
+    border-left: 2px solid #69696a;
+    float: left; 
+    padding: 15px;
+}
+
+.scroll {
+    margin-top: 200px; 
+}
